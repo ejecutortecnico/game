@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    justify-content: center;
+    background-color: rgb(95, 173, 238);
+}
+canvas {
+    display : block;   
+    margin : auto;
+    }
